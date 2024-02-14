@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "sfkm:instrument_46"
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "sfkm:instrument_46",
+            "register_to_create_menu": true
+        }
+    }
+}

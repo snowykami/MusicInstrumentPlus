@@ -1,0 +1,18 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "sfkm:instrument_0": {
+            "textures": "textures/items/instrument_0"
+        },
+        "sfkm:instrument_10": {
+            "textures": "textures/items/instrument_10"
+        },
+        "sfkm:instrument_24": {
+            "textures": "textures/items/instrument_24"
+        },
+        "sfkm:instrument_46": {
+            "textures": "textures/items/instrument_46"
+        }
+    },
+    "texture_name": "atlas.items"
+}
